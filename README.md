@@ -72,15 +72,9 @@ I am currently conducting a **15-Day Infrastructure Sprint** to simulate high-sc
 
 ### 📊 **The Metrics**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntjrrvarma&show_icons=true&theme=tokyonight&hide_border=true" alt="Rahul's Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntjrrvarma&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntjrrvarma&theme=tokyonight&hide_border=true" />
-</div>
+![Rahul's Stats](https://github-readme-stats.vercel.app/api?username=ntjrrvarma&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntjrrvarma&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ---
 
