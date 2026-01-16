@@ -1,112 +1,89 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MicaiahWaller/micaiahwaller/main/assets/developer.gif" width="100" />
-  <h1>Hey there! I'm Rahul N R 👋</h1>
-  <p>Systems Development Engineer | Cloud Enthusiast | AI Explorer</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
+  <h1>Hi there, I'm Rahul N R 👋</h1>
+  <h3>Systems Development Engineer | SRE Architect | AI Platform Builder</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/ntjrrvarma">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="mailto:n.r.rahulvarma@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
+    </a>
+  </p>
 </div>
 
 ---
 
-### 🚀 About Me
+### 🚀 **About Me**
 
-I'm a passionate **Systems Development Engineer** with over 6.5 years of experience in building, automating, and maintaining robust technical infrastructure at scale. My journey has been driven by a relentless curiosity to understand how complex systems work and a commitment to making them more efficient and resilient.
+I am a **Systems Development Engineer** turned **SRE Architect** with **6.5+ years** of experience in managing high-scale infrastructure. I specialize in bridging the gap between **Operations** (keeping the lights on) and **Innovation** (building AI platforms).
 
-I thrive on solving operational challenges through **code-first approaches**, leveraging automation to reduce toil and enhance system reliability. My expertise spans across cloud platforms, deep system administration, network troubleshooting, and developing impactful tools with Python and Go.
-
-Currently, I'm deeply immersed in the exciting world of **Generative AI**, exploring how it can revolutionize traditional engineering workflows and developer experiences. I believe in the power of well-architected systems to drive innovation and create meaningful impact.
-
----
-
-### ✨ What I'm Currently Building
-
-I'm actively developing **Project COSMOS**, my flagship initiative aimed at transforming developer onboarding:
-
-#### Project COSMOS (Codebase Analysis & Integration Partner)
-> *Vision: To revolutionize developer onboarding by transforming complex codebases into personalized, clear, and engaging learning journeys.*
-
-This is an ambitious AI-powered platform designed to significantly reduce developer ramp-up times and operational costs for companies. It's a cloud-native solution built primarily on **Google Cloud Platform (GCP)**.
-
-* **Core Functionality:** Deep codebase understanding (using ASTs, Git history), AI-powered personalization for learning paths, contextual guidance, and instant insights via LLMs.
-* **Tech Stack Highlights:**
-    * **Backend/AI:** Python (FastAPI/Flask) on Google Cloud Functions & Cloud Run, Google Gemini API, tree-sitter, Langchain/LlamaIndex, GitPython, Vertex AI.
-    * **Infrastructure:** Firebase, Pub/Sub, Cloud Armor, Secret Manager, GPUs/TPUs, GKE.
-    * **DevOps:** Git/GitHub, Docker, GitHub Actions/Google Cloud Build, Terraform.
-* **My Role:** Architecting the cloud-native solution, designing the AI/ML core, and implementing advanced automation and DevOps practices.
-
-I'm also continuing to refine **PolicyPal**, a Retrieval-Augmented Generation (RAG) model-based chatbot that helps users understand complex policy rules interactively.
+* 🔭 **Currently working on:** Building **RM Inc.** (A 15-Day Intense SRE Sprint to build self-healing systems).
+* 🌱 **Learning:** Advanced Kubernetes Operators, AIOps, and Chaos Engineering.
+* 💬 **Ask me about:** Mainframes, Linux internals, Docker orchestration, and why "Hope is not a Strategy."
+* ⚡ **Fun fact:** I once automated a production outage recovery script that fixed the system in 45 seconds while I slept.
 
 ---
 
-### 🛠️ My Toolkit
+### 🔥 **Current Engineering Sprint: RM Inc.**
 
-Here's a glimpse into the technologies and concepts I work with:
+I am currently running a public "15-Day SRE Sprint" to build enterprise-grade reliability tools from scratch.
 
-**Programming Languages:**
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **LogSentinel** | High-performance log ingestion & monitoring pipeline. | `Redis` `Docker` `Prometheus` `Grafana` | ✅ Completed |
+| **Chaos Monkey** | Python agent that actively kills production containers. | `Python` `Docker SDK` | ✅ Completed |
+| **Ticket-Rush** | High-concurrency booking engine (Thalaivar FDFS Simulator). | `FastAPI` `Redis Locks` `Nginx` | 🚧 In Progress |
+| **Project Cosmos** | Global Multi-Region Disaster Recovery architecture. | `Kubernetes` `GCP` | ⏳ Planned |
+
+---
+
+### 🛠️ **The Arsenal**
+
+**Infrastructure & SRE**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go (Familiar)" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Unix Shell Scripting" />
-  <img src="https://img.shields.io/badge/COBOL-5C2D91?style=for-the-badge&logo=ibm&logoColor=white" alt="COBOL" />
-  <img src="https://img.shields.io/badge/JCL-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="JCL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-**Cloud Platforms:**
+**Backend & Automation**
 <p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform (Familiar)" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/IBM_Cloud-1062FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
-**Operating Systems & Virtualization:**
+**AI & Legacy Systems**
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux (Unix)" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes (GKE)" />
-</p>
-
-**Databases:**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Snowflake-28B5E5?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/Teradata-000000?style=for-the-badge&logo=teradata&logoColor=white" alt="Teradata" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB (Familiar)" />
-</p>
-
-**Automation & DevOps:**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
-</p>
-
-**AI/ML Concepts:**
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning (Familiar)" />
-  <img src="https://img.shields.io/badge/RAG_Models-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="RAG Models" />
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mainframe-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/COBOL-5C2D91?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 **The Metrics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntjrrvarma&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Rahul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntjrrvarma&layout=compact&theme=nord&hide_border=true" alt="Rahul's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ntjrrvarma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntjrrvarma&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntjrrvarma&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 🤝 Let's Connect!
-
-I'm always open to discussing new opportunities, collaborations, or just chatting about technology and its impact. Feel free to reach out!
-
-* **LinkedIn:** [https://www.linkedin.com/in/ntjrrvarma/](https://www.linkedin.com/in/ntjrrvarma/)
-* **Email:** n.r.rahulvarma@gmail.com
-
----
-
 <div align="center">
-  <p>Thanks for stopping by! Happy coding! ✨</p>
+  <i>"I don't just fix servers; I teach them to fix themselves."</i><br>
+  <b>CEO & Architect @ RM Inc.</b>
 </div>
