@@ -28,14 +28,14 @@ I am a **Systems Development Engineer** turned **SRE Architect** with **7+ years
 
 ### 🔥 **Current Engineering Focus: The SRE Resilience Lab**
 
-I am currently conducting a **15-Day Infrastructure Sprint** to simulate high-scale production failures and build self-healing systems.
+I am currently conducting a **20-Day Infrastructure Sprint** to simulate high-scale production failures and build self-healing systems.
 
 | Project | Simulation Type | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **LogSentinel** | Observability Pipeline | `Redis` `Docker` `Prometheus` `Grafana` | ✅ Completed |
+| **LogSentinel v2** | Observability, Alerting & AIOps | `Prometheus` `Grafana` `Gemini API` | 🔄 **Active Dev** |
 | **Chaos Monkey** | Automated Failure Injection | `Python` `Docker SDK` | ✅ Completed |
-| **Ticket-Rush** | High-Concurrency Locking | `FastAPI` `Redis Locks` `Nginx` | 🚧 In Progress |
-| **Project Cosmos** | Multi-Region Disaster Recovery | `Kubernetes` `GCP` | ⏳ Planned |
+| **Ticket-Rush** | High-Concurrency Locking | `FastAPI` `Redis Locks` `Nginx` | ⏳ Starting Wed |
+| **Project Cosmos** | Multi-Region Disaster Recovery | `Kubernetes` `GCP` | 📅 Planned |
 
 ---
 
