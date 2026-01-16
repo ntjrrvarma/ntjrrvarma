@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
   <h1>Hi there, I'm Rahul N R 👋</h1>
   <h3>Systems Development Engineer | SRE Architect | AI Platform Builder</h3>
   
@@ -17,7 +17,7 @@
 
 ### 🚀 **About Me**
 
-I am a **Systems Development Engineer** turned **SRE Architect** with **6.5+ years** of experience in managing high-scale infrastructure. I specialize in bridging the gap between **Operations** (keeping the lights on) and **Innovation** (building AI platforms).
+I am a **Systems Development Engineer** turned **SRE Architect** with **7+ years** of experience in managing high-scale infrastructure. I specialize in bridging the gap between **Operations** (keeping the lights on) and **Innovation** (building AI platforms).
 
 * 🔭 **Currently working on:** Building **RM Inc.** (A 15-Day Intense SRE Sprint to build self-healing systems).
 * 🌱 **Learning:** Advanced Kubernetes Operators, AIOps, and Chaos Engineering.
@@ -26,16 +26,16 @@ I am a **Systems Development Engineer** turned **SRE Architect** with **6.5+ yea
 
 ---
 
-### 🔥 **Current Engineering Sprint: RM Inc.**
+### 🔥 **Current Engineering Focus: The SRE Resilience Lab**
 
-I am currently running a public "15-Day SRE Sprint" to build enterprise-grade reliability tools from scratch.
+I am currently conducting a **15-Day Infrastructure Sprint** to simulate high-scale production failures and build self-healing systems.
 
-| Project | Description | Tech Stack | Status |
+| Project | Simulation Type | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **LogSentinel** | High-performance log ingestion & monitoring pipeline. | `Redis` `Docker` `Prometheus` `Grafana` | ✅ Completed |
-| **Chaos Monkey** | Python agent that actively kills production containers. | `Python` `Docker SDK` | ✅ Completed |
-| **Ticket-Rush** | High-concurrency booking engine (Thalaivar FDFS Simulator). | `FastAPI` `Redis Locks` `Nginx` | 🚧 In Progress |
-| **Project Cosmos** | Global Multi-Region Disaster Recovery architecture. | `Kubernetes` `GCP` | ⏳ Planned |
+| **LogSentinel** | Observability Pipeline | `Redis` `Docker` `Prometheus` `Grafana` | ✅ Completed |
+| **Chaos Monkey** | Automated Failure Injection | `Python` `Docker SDK` | ✅ Completed |
+| **Ticket-Rush** | High-Concurrency Locking | `FastAPI` `Redis Locks` `Nginx` | 🚧 In Progress |
+| **Project Cosmos** | Multi-Region Disaster Recovery | `Kubernetes` `GCP` | ⏳ Planned |
 
 ---
 
@@ -72,11 +72,12 @@ I am currently running a public "15-Day SRE Sprint" to build enterprise-grade re
 
 ### 📊 **The Metrics**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntjrrvarma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntjrrvarma&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ntjrrvarma&show_icons=true&theme=tokyonight&hide_border=true" alt="Rahul's Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntjrrvarma&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntjrrvarma&theme=tokyonight&hide_border=true" />
 </div>
@@ -84,6 +85,6 @@ I am currently running a public "15-Day SRE Sprint" to build enterprise-grade re
 ---
 
 <div align="center">
-  <i>"I don't just fix servers; I teach them to fix themselves."</i><br>
-  <b>CEO & Architect @ RM Inc.</b>
+  <i>"I don't just fix servers; I engineer reliability."</i><br>
+  <b>SRE & Systems Architect</b>
 </div>
