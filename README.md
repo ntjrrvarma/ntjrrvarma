@@ -19,7 +19,7 @@
 
 I am a **Systems Development Engineer** turned **SRE Architect** with **7+ years** of experience in managing high-scale infrastructure. I specialize in bridging the gap between **Operations** (keeping the lights on) and **Innovation** (building AI platforms).
 
-* 🔭 **Currently working on:** The **"Chennai Trilogy"** (A series of high-scale system design challenges).
+* 🔭 **Currently working on:** The **"Chennai Trilogy"** (High-Scale System Design Series).
 * 🌱 **Learning:** Advanced Kubernetes Operators, AIOps, and Chaos Engineering.
 * 💬 **Ask me about:** Mainframes, Linux internals, Docker orchestration, and why "Hope is not a Strategy."
 * ⚡ **Fun fact:** I once automated a production outage recovery script that fixed the system in 45 seconds while I slept.
@@ -32,11 +32,10 @@ I am currently conducting a **20-Day Infrastructure Sprint** to simulate high-sc
 
 | Project | Simulation Type | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **LogSentinel v2** | Observability, Alerting & AIOps | `Prometheus` `Grafana` `Gemini API` | 🔄 **Active Dev** |
-| **Chaos Monkey** | Automated Failure Injection | `Python` `Docker SDK` | ✅ Completed |
-| **Ticket-Rush** | High-Concurrency Locking | `FastAPI` `Redis Locks` `Lua Scripts` | ✅ Completed |
-| **Namma Auto** | Real-Time Geospatial Engine | `Redis Geo` `WebSockets` `FastAPI` | ✅ Completed |
-| **Chennai Floods** | Big Data IoT Ingestion | `Kafka` `TimescaleDB` `AsyncIO` | ⏳ Loading... |
+| **LogSentinel** | AIOps & Self-Healing Infra | `Python` `Docker` `Gemini AI` | ✅ **Completed** |
+| **Namma Auto** | Real-Time Geospatial Engine | `Redis Geo` `WebSockets` `FastAPI` | ✅ **Completed** |
+| **Ticket-Rush** | High-Concurrency Locking | `FastAPI` `Redis Locks` `Lua` | ✅ **Completed** |
+| **Chennai Floods** | IoT Big Data Ingestion | `Kafka` `TimescaleDB` `AsyncIO` | 🔄 **Next Up** |
 
 ---
 
