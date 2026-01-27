@@ -35,7 +35,7 @@ I am currently conducting a **20-Day Infrastructure Sprint** to simulate high-sc
 | **LogSentinel** | AIOps & Self-Healing Infra | `Python` `Docker` `Gemini AI` | ✅ **Completed** |
 | **Namma Auto** | Real-Time Geospatial Engine | `Redis Geo` `WebSockets` `FastAPI` | ✅ **Completed** |
 | **Ticket-Rush** | High-Concurrency Locking | `FastAPI` `Redis Locks` `Lua` | ✅ **Completed** |
-| **Chennai Floods** | IoT Big Data Ingestion | `Kafka` `TimescaleDB` `AsyncIO` | 🔄 **Next Up** |
+| **Chennai Floods** | 🌊 **Big Data** (Streaming Ingestion) | `Kafka` `TimescaleDB` `AsyncIO` | ✅ **Completed** |
 
 ---
 
