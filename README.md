@@ -66,4 +66,3 @@ I don't just use AI tools. I build them.
 ---
 
 *"I don't just use AI. I build it."*
-```
