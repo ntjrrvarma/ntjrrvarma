@@ -66,13 +66,6 @@ If any of my open-source projects, controllers, or AI frameworks saved your team
 
 ---
 
-### Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntjrrvarma&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntjrrvarma&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</div>
-
 ---
 
 <div align="center">
